@@ -1,0 +1,22 @@
+ion-content {
+  --background: linear-gradient(-45deg,  #F4D03F 50%, #85C1E9 50% );
+
+
+  ion-card-content {
+    font-weight: 70;
+    font-size: 20px;
+    color: #010100;
+    }
+
+  ion-card-title {
+    font-weight: 700;
+    font-size: 20px;
+    color: #010100;
+  }
+
+  ion-card{
+    border: 2px solid #010100;	;
+  }
+
+
+}
